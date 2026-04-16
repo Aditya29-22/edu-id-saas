@@ -15,6 +15,7 @@ runner = "https://github.com/wasmerio/php-cgi-runner"
 
 [fs]
 "/public" = "public"
+"/public/build" = "public/build"
 "/storage" = "storage"
 "/config" = "config"
 "/bootstrap" = "bootstrap"
